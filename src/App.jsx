@@ -16,7 +16,7 @@ import DocLogin from './pages/Doctor/DocLogin.jsx'
 import InfoDrugs from './pages/infoDrugs/InfoDrugs.jsx'
 import DoctorLog from './pages/Doctor/DoctorLog.jsx'
 import DoctorsProfile from './pages/DoctorsProfile/DoctorsProfile.jsx'
-import Info from './pages/infoDoctor/info.jsx'
+import Info from './pages/infoDoctor/Info.jsx'
 function App() {
   const router = createBrowserRouter ([
     {
