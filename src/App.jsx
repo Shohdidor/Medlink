@@ -13,10 +13,10 @@ import VideoCallPage from './pages/Call/VideoCall.jsx'
 import PremiumPage from './pages/premium/premium.jsx'
 import Choice from './Choice.jsx'
 import DocLogin from './pages/Doctor/DocLogin.jsx'
-import Info from './pages/infoDoctor/Info.jsx'
 import InfoDrugs from './pages/infoDrugs/InfoDrugs.jsx'
 import DoctorLog from './pages/Doctor/DoctorLog.jsx'
 import DoctorsProfile from './pages/DoctorsProfile/DoctorsProfile.jsx'
+import Info from './pages/infoDoctor/info.jsx'
 function App() {
   const router = createBrowserRouter ([
     {
